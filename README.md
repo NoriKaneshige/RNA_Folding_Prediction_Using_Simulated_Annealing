@@ -1,9 +1,9 @@
 # RNA_Folding_Prediction_Using_Simulated_Annealing
 
 ## [Comments about the result]
-### I generated the average base-pair matrix over 200 iterations for both UUCG-tetraloop and Human Telomerase RNA.
-### When I compare each average base-pair matrix and NMR structures, I found discrepancies. My simulated_annealing model with 200 iterations and given hyperparameters could not really predict UUCG tetra loop in both RNAs and also failed in predicting GCUCC internal loop in Human Telomerase RNA.
-### A possible improvement would be to increase the iteration number. I used 200 iteration this time. Another improvement would be to tune hyperparameters such as distribution parameter.
+### 1) I generated the average base-pair matrix over 200 iterations for both UUCG-tetraloop and Human Telomerase RNA.
+### 2) When I compare each average base-pair matrix and NMR structures, I found discrepancies. My simulated_annealing model with 200 iterations and given hyperparameters could not really predict UUCG tetra loop in both RNAs and also failed in predicting GCUCC internal loop in Human Telomerase RNA.
+### 3) A possible improvement would be to increase the iteration number. I used 200 iteration this time. Another improvement would be to tune hyperparameters such as distribution parameter.
 
 ## [Result]
 ## UUCG-tetraloop 2D structure generated in [RNApdbee](http://rnapdbee.cs.put.poznan.pl/) using PDB data.
