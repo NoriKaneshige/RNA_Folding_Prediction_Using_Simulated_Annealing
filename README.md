@@ -16,7 +16,7 @@
 ![Image 2](UUCG_tetraloop_from_NMR.png)
 
 ## Averaged Human telomerase RNA 2D structure predicted by Simulated Annealing
-![Image 3](predicted_averaged_UUCG-tetraloop_2D_structure.png)
+![Image 3](HUMAN_TELOMERASE_RNA_NMR.png)
 
 
 
